@@ -1,7 +1,9 @@
 # FaceOpencvDrive
 
- 注：com.cameratest.CaptureBasic.java类：开启本地摄像头，进行脸部跟踪
-     com.cameratest.CapturePhotos.java类：开启本地摄像头，进行脸部跟踪，以及图片抓取与保存
+ 注：
+    com.cameratest.CaptureBasic.java类：开启本地摄像头，进行脸部跟踪。
+ 
+   com.cameratest.CapturePhotos.java类：开启本地摄像头，进行脸部跟踪，以及图片抓取与保存
  
  /**
  * 主类运行
@@ -9,6 +11,8 @@
  * @date: 2020/2/29  16:12
  * @description: 开启本地摄像头，进行脸部跟踪。驱动电脑本地摄像头
  */
+ 
+ 
 OpenC_v4.2.0安装包下载安装包： 链接：https://pan.baidu.com/s/1owagN6ikHJuMfEs25WRC_A    提取码：1234
 
 
