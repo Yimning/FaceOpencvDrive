@@ -3,7 +3,7 @@
  注：
     com.cameratest.CaptureBasic.java类：开启本地摄像头，进行脸部跟踪。
  
-   com.cameratest.CapturePhotos.java类：开启本地摄像头，进行脸部跟踪，以及图片抓取与保存
+   com.cameratest.CapturePhotos.java类：开启本地摄像头，进行脸部跟踪，以及图片抓取与保存。
  
  /**
  * 主类运行
