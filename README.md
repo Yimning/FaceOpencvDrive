@@ -13,7 +13,7 @@
  */
  
  
-OpenC_v4.2.0安装包下载安装包： 链接：https://pan.baidu.com/s/1owagN6ikHJuMfEs25WRC_A    提取码：1234
+OpenCV_v4.2.0安装包下载安装包： 链接：https://pan.baidu.com/s/1owagN6ikHJuMfEs25WRC_A    提取码：1234
 
 
 
